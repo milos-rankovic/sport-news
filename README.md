@@ -1,6 +1,6 @@
 # Sport News
 
-> Simple MVC web application example (app for managing sport news portal), written in Java using Servlets, JSP and MySQL.
+> Simple MVC web application example (app for managing sport news portal), written in Java using Servlets, JSP and MySQL, and [HikariCP](https://brettwooldridge.github.io/HikariCP/) as a JDBC connection pool.
 
 ## Requirements
 
