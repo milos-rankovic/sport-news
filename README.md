@@ -17,3 +17,53 @@ Java 10 or above (because of the local variable type inference).
   - **Administrator**: username: `admin`, password: `admin`
   - **Manager**: username: `manager`, password: `manager`
   - **Editor**: username: `editor`, password: `editor`
+
+## Screenshots
+
+![screenshot2](screenshots/screenshot2.png)
+
+![screenshot2](screenshots/screenshot3.png)
+
+![screenshot2](screenshots/screenshot4.png)
+
+![screenshot2](screenshots/screenshot5.png)
+
+![screenshot2](screenshots/screenshot6.png)
+
+![screenshot2](screenshots/screenshot7.png)
+
+![screenshot2](screenshots/screenshot8.png)
+
+![screenshot2](screenshots/screenshot9.png)
+
+![screenshot2](screenshots/screenshot10.png)
+
+![screenshot2](screenshots/screenshot24.png)
+
+![screenshot2](screenshots/screenshot25.png)
+
+![screenshot2](screenshots/screenshot11.png)
+
+![screenshot2](screenshots/screenshot12.png)
+
+![screenshot2](screenshots/screenshot22.png)
+
+![screenshot2](screenshots/screenshot23.png)
+
+![screenshot2](screenshots/screenshot13.png)
+
+![screenshot2](screenshots/screenshot14.png)
+
+![screenshot2](screenshots/screenshot15.png)
+
+![screenshot2](screenshots/screenshot16.png)
+
+![screenshot2](screenshots/screenshot17.png)
+
+![screenshot2](screenshots/screenshot18.png)
+
+![screenshot2](screenshots/screenshot19.png)
+
+![screenshot2](screenshots/screenshot20.png)
+
+![screenshot2](screenshots/screenshot21.png)
